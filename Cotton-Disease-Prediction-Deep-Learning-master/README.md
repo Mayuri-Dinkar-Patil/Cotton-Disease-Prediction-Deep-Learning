@@ -1,4 +1,5 @@
-# Cotton-Disease-Prediction-Deep-
+# Cotton-Disease-Prediction-Deep-Learning
+
 Overview
 Predicts cotton diseases using deep learning to enhance crop management and yield.
 
